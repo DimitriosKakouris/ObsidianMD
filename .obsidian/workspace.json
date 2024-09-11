@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e9ac9763b5ee1325",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e70547f9096edc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2312a2517d7ed684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis/Score Based Diffusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82647230fb395cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Συστήματα Παράλληλης Επεξεργασίας.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c5af38590a58ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies I would like to contact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46614bd58394c560",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b435198676f10b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279eb3fc145d3352",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03a4c16ad0b63c9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eb3bc56c5b7056d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0f5f06ce381e49c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa45b7d902f68772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011ab4bbf72ffbbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Companies I would like to contact.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8818557b876e7986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Companies I would like to contact.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a7a2432d4e7f568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d180b0b22c03297",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Companies I would like to contact.md"
+              }
+            }
+          },
+          {
+            "id": "2786d7d531c0bce9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2786d7d531c0bce9",
+  "lastOpenFiles": [
+    "README.md",
+    "Συστήματα Παράλληλης Επεξεργασίας.md",
+    "Companies I would like to contact.md",
+    "Thesis/Score Based Diffusion.md",
+    "Astrophotography/How to get it working?.md",
+    "Astrophotography",
+    "Thesis/Denoising Diffusion.md",
+    "AdvAI/Graph Neural Nets.md",
+    "AdvAI/Graph and Knowledge.md",
+    "Pasted image 20240122101805.png",
+    "AdvAI",
+    "Thesis"
+  ]
+}
